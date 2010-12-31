@@ -1,0 +1,26 @@
+INTRO
+=====
+
+String Modifiers is a gedit plugin, which modifies user selected text in the editor into a formated string. In this 1.0 version, there are 6 (six) modifiers available:
+
+    * Adds curly braces to enclose the selected text
+    * Adds square brackets to enclose the selected text
+    * Adds quotation marks to enclose the selected text
+    * Adds customizable characters to enclose the selected text
+    * Turns the selected text into an array of characters
+    * Turns the selected text into an array of words
+
+Each modifier has accelerators / shortcut keys that can be configured while enabling the plugin or at run time. No shortcut keys are bound by default, so as to not conflict with other plugins that are already in use.
+
+
+HOWTO
+=====
+1. Download plugin: http://sites.google.com/site/dvertx/stringmod/stringmod.tgz
+2. Extract into $HOME/.gnome2/gedit/plugins
+3. Enable plugin in gedit by selecting 'String Modifiers' under Edit->Preferences->Plugins menu
+4. Change shortcut / accelerator key bindings
+
+
+Hertatijanto Hartono
+<dvertx AT SPAMFREE gmail DOT com>
+

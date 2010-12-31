@@ -1,0 +1,11 @@
+[Gedit Plugin]
+Loader=python
+Module=stringmodifier
+IAge=2
+Name=String Modifiers
+Description=Gedit Pugin to modify text selections into formatted strings.
+Authors=Hertatijanto Hartono <dvertx@gmail.com>
+Copyright=Copyright © 2010 Hertatijanto Hartono
+Website=http://sites.google.com/site/dvertx
+Version=1.0
+
